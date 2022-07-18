@@ -1,4 +1,4 @@
-<h1 style="color: red">Hi Im Robert</h1>
+<h1>Hi Im Robert</h1>
 
 - 👀 I’m student who found his passion in web development
 - 🌱 I’m currently learning ReactJS
