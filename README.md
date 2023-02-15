@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Bachelor Degree Project**
 
-- 🌱 I’m currently trying to get into **Typescript and NextJS**
+- 🌱 Currently trying to get into **Typescript and NextJS**
 
-- 👨‍💻 All of my projects are available at [https://robert-hornik.pages.dev](https://robert-hornik.pages.dev)
+- 👨‍💻 My website: [https://robert-hornik.pages.dev](https://robert-hornik.pages.dev)
 
 - 📫 How to reach me **rhornik311@gmail.com**
 
