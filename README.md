@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">I’m student who found his passion in web development</h3>
 
-- 🔭 I’m currently working on **Bachelor Degree Project**
 
 - 🌱 Currently trying to get into **Typescript and NextJS**
 
