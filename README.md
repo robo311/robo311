@@ -17,7 +17,7 @@
 
 - Frameworks:
   
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,styledcomponents,express,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,astro,tailwind,bootstrap,sass,styledcomponents,express,discordjs)](https://skillicons.dev)
 
 - Databases:
   
