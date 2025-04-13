@@ -2,9 +2,6 @@
 
 - I'm currently studying computer science on Master degree and working as web developer
 
-- 📫 How to reach me **rhornik311@gmail.com**
-  
-
 ![robo311's Stats](https://github-readme-stats.vercel.app/api?username=robo311&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![robo311's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robo311&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
