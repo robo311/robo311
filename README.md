@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 
-- I'm currently studying computer science on Master degree and working as web developer
+- Computer Scienece graduated, working as web developer
 
 ![robo311's Stats](https://github-readme-stats.vercel.app/api?username=robo311&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![robo311's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robo311&theme=gotham&show_icons=true&hide_border=true&layout=compact)
